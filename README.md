@@ -2,7 +2,7 @@
 
 The following requirements are mandatory
 
-1. Write a backend using Flask that respond a http GET request to route `/`.
+1. Write a backend using Flask that responds a http GET request on `/`.
 2. The response body is a pure string which is `Hello, World!`.
 3. The backend listens on TCP port `5000`.
 4. `pass_result.png` is the expected results shown in a browser when `webapp` and `backend` are running together.
