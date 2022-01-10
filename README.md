@@ -6,6 +6,7 @@ The following requirements are mandatory
 2. The response body is a pure string which is `Hello, World!`.
 3. The backend listens on TCP port `5000`.
 4. `pass_result.png` is the expected results shown in a browser when `webapp` and `backend` are running together.
+5. Submit a Pull Request to this repository when you think it's ready.
 
 ## Bonus
 
